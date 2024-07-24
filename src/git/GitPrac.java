@@ -2,7 +2,7 @@ package git;
 
 public class GitPrac {
 	
-	/*
+	/* git cheat code
 	 * git branch = check how many branch in my sytem
 	 * git branch java = java here create new branch
 	 * git checkout java = swith to java branch
