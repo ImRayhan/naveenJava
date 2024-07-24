@@ -8,6 +8,10 @@ public class GitPrac {
 	 * git checkout java = swith to java branch
 	 * git status = check git current status
 	 * git pull origin java = its pull the code
+	 * git merge java = merge the new branch
+	 * git merge --abort = abort the marge
+
+	 * 
 	 */
 	
 	public static void main(String[] args) {
