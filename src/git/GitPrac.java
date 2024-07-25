@@ -5,7 +5,7 @@ public class GitPrac {
 	/*
 	 * git branch = check how many branch in my sytem
 	 * git branch java = java here create new branch
-	 * git checkout java = swith to java branch
+	 * git checkout/switch java = swith to java branch
 	 * git status = check git current status
 	 * git pull origin java = its pull the code
 	 * git merge java = merge the new branch
